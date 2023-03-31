@@ -2,7 +2,7 @@
 
 Aquest repositori de R serveix per a poder veure i aprendre el procediment de com es creen els gràfics per als Baròmetres del Centre d'Estudis d'Opinió. El arxiu utilitzat és de tipus `.Rmd`, que permet executar els codis dels gràfics un a un o tot automàticament. El script no inclou els gràfics de les estimacions electorals, que es poden trobar en el seu [repositori corresponent](https://github.com/ceopinio/ceo-estimacions/blob/main/src/report-figures.R).
 
-# 🗂 Estructura del repositori
+## 🗂 Estructura del repositori
 
 -  📁 `src` conté el script de .Rmd utilitzat. Una breu descripció es [mostra sota](#descripció-del-script).
 -  📁 `dta` conté totes les dades d'entrada, com la base de dades del BOP corresponent, les dades de població, entre altres. Serà actualitzada cada vegada amb la nova matriu de dades. 
