@@ -11,7 +11,7 @@ Aquest repositori d'R serveix per poder veure i aprendre el procediment de creac
 
 ## Descripció dels scripts
 
-L'script .Rmd conté diferents tipus de gràfics que s'inclouen en l'informe: de barres, dònut, lollipop, d'àrea, de línies temporals, entre altres. Algunes seccions que es mostren sota són constants entre els Baròmetres, per la qual cosa se n'inclou una descripció:
+L'script.Rmd conté diferents tipus de gràfics que s'inclouen en l'informe: de barres, dònut, lollipop, d'àrea, de línies temporals, entre altres. Algunes seccions que es mostren sota són constants entre els Baròmetres, per la qual cosa se n'inclou una descripció:
 
 - 🌍 `Mostra` inclou els gràfics de l'informe que permeten verificar l'adequació de la 
 mostra amb les dades poblacionals incloses en `poblacio.csv`. Aquí s'inclouen gràfics de sexe, nivell d'estudis, lloc de naixement, llengua primera i grups d'edat.
