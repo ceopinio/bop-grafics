@@ -4,14 +4,14 @@ Aquest repositori d'R serveix per poder veure i aprendre el procediment de creac
 
 ## Estructura del repositori
 
--  📁 `src` conté el script de .Rmd utilitzat. Una breu descripció es [mostra a sota](#descripció-del-script).
+-  📁 `src` conté el script de **.Rmd** utilitzat. Una breu descripció es [mostra a sota](#descripció-del-script).
 -  📁 `dta` conté totes les dades d'entrada, com la base de dades del BOP corresponent, les dades de població, entre d'altres. Serà actualitzada cada vegada amb la nova matriu de dades. 
 -  📁 `img` allotjarà les imatges generades pel script. 
 -  📁 `config` inclou un fitxer `config.yaml` que defineix les variables de configuració que s'utilitzen a tot el codi com les rutes de les dades, els noms dels líders polítics, les dates dels BOP històrics, i els noms i colors dels partits. 
 
 ## Descripció dels scripts
 
-L'script.Rmd conté diferents tipus de gràfics que s'inclouen en l'informe: de barres, dònut, lollipop, d'àrea, de línies temporals, entre altres. Algunes seccions que es mostren sota són constants entre els Baròmetres, per la qual cosa se n'inclou una descripció:
+L'script **.Rmd** conté diferents tipus de gràfics que s'inclouen en l'informe: de barres, dònut, lollipop, d'àrea, de línies temporals, entre altres. Algunes seccions que es mostren sota són constants entre els Baròmetres, per la qual cosa se n'inclou una descripció:
 
 - 🌍 `Mostra` inclou els gràfics de l'informe que permeten verificar l'adequació de la 
 mostra amb les dades poblacionals incloses en `poblacio.csv`. Aquí s'inclouen gràfics de sexe, nivell d'estudis, lloc de naixement, llengua primera i grups d'edat.
