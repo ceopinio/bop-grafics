@@ -1,0 +1,106 @@
+DTA_FOLDER: "dta"
+IMG_FOLDER: "img"
+MOSTRA_IMG_FOLDER: "img/mostra"
+LIDERS_IMG_FOLDER: "img/liders"
+ECO_IMG_FOLDER: "img/economia"
+RELS_IMG_FOLDER: "img/relacions esp-cat"
+ELECT_IMG_FOLDER: "img/electoral"
+INST_IMG_FOLDER: "img/institucions"
+SOCIALS_IMG_FOLDER: "img/socials"
+MUNICIPAL_IMG_FOLDER: "img/municipal"
+ALTRES_IMG_FOLDER: "img/altres"
+SRC_FOLDER: "src"
+FOLDS: 12
+REPEATS: 12
+PARTITS_COLORS:
+  PSC:
+   - "#E73B39"
+  ERC:
+   - "#FFB232"
+  Junts per Catalunya:
+   - "#00C3B2"
+  PP:
+   - "#0BB2FF"
+  CUP:
+   - "#EAC134"
+  Vox:
+   - "#63BE21"
+  En Comú Podem:
+   - "#6E236E"
+  Ciudadanos*:
+   - "#EB6109"
+  Cap:
+   - "#AE8055"
+  Població general:
+   - "#666464"
+PARTITS_COLORS_ALTRES:
+  PSC:
+   - "#E73B39"
+  ERC:
+   - "#FFB232"
+  Junts per Catalunya:
+   - "#00C3B2"
+  PP:
+   - "#0BB2FF"
+  CUP:
+   - "#EAC134"
+  Vox:
+   - "#63BE21"
+  En Comú Podem:
+   - "#6E236E"
+  Ciudadanos*:
+   - "#EB6109"
+  Cap:
+   - "#AE8055"
+  Altres:
+   - "#9E9E9E"
+PRETTY_PARTY_NAMES:
+  "PSCPSOE": "PSC"
+  "ERC": "ERC"
+  "Ciudadanos": "Ciudadanos*"
+  "CUP": "CUP"
+  "En.Comu.Podem": "En Comú Podem"
+  "Junts.per.Catalunya": "Junts per Catalunya"
+  "PP": "PP"
+  "Vox": "Vox"
+  "Cap.altre": "Cap" 
+PRETTY_POLITIC_NAMES:
+  S_ILLA: "Salvador Illa"
+  P_ARAGONES: "Pere Aragonès"
+  O_JUNQUERAS: "Oriol Junqueras"
+  M_ICETA: "Miquel Iceta"
+  L_ROLDAN: "Lorena Roldán"
+  L_BORRAS: "Laura Borràs"
+  J_ASENS: "Jaume Asens"
+  J_ALBIACH: "Jèssica Albiach"
+  I_GARRIGA: "Ignacio Garriga"
+  I_ARRIMADAS: "Inés Arrimadas"
+  E_REGUANT: "Eulàlia Reguant"
+  D_SABATER: "Dolors Sabater"
+  C_PUIGDEMONT: "Carles Puigdemont"
+  C_CARRIZOSA: "Carlos Carrizosa"
+  A_FERNANDEZ: "Alejandro Fernández"
+PRETTY_BOP_NAMES:
+  "746": "Març 14"
+  "758": "Oct. 14"
+  "774": "Març 15"
+  "795": "Juny 15"
+  "804": "Oct. 15"
+  "816": "Feb. 16"
+  "826": "Juny 16"
+  "835": "Oct. 16"
+  "850": "Març 17"
+  "857": "Juny 17"
+  "863": "Oct. 17"
+  "885": "Abr 18"
+  "901": "Juny 18"
+  "908": "Oct. 18"
+  "919": "Març 19"
+  "942": "Jul. 19"
+  "954": "Nov. 19"
+  "962": "Feb. 20"
+  "974": "Jul. 20"
+  "985": "Oct. 20"
+  "1019": "Març 22"
+  "1031": "Juny 22"
+  "1035": "Oct. 22"
