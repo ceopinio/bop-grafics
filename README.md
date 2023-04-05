@@ -4,9 +4,9 @@ Aquest repositori d'R serveix per poder veure i aprendre el procediment de creac
 
 ## Estructura del repositori
 
--  📁 `src` conté el script de **.Rmd** utilitzat. Una breu descripció es [mostra a sota](#descripció-del-script).
+-  📁 `src` conté el script de **.Rmd** utilitzat. Una breu descripció es [mostra a sota](#descripció-de l'script).
 -  📁 `dta` conté totes les dades d'entrada, com la base de dades del BOP corresponent, les dades de població, entre d'altres. Serà actualitzada cada vegada amb la nova matriu de dades. 
--  📁 `img` allotjarà les imatges generades pel script. 
+-  📁 `img` allotjarà les imatges generades per l'script. 
 -  📁 `config` inclou un fitxer `config.yaml` que defineix les variables de configuració que s'utilitzen a tot el codi com les rutes de les dades, els noms dels líders polítics, les dates dels BOP històrics, i els noms i colors dels partits. 
 
 ## Descripció dels scripts
